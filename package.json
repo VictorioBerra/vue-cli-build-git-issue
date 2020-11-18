@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "trianglify": "git+https://github.com/qrohlf/trianglify.git",
     "vue": "^2.6.11"
   },
   "devDependencies": {

@@ -31,10 +31,14 @@
 </template>
 
 <script>
+import trianglify from 'trianglify'
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  created () {
+    console.log(trianglify)
   }
 }
 </script>
